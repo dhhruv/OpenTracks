@@ -51,6 +51,7 @@ import de.dennisguse.opentracks.data.models.Track;
  * @author Rodrigo Damazio
  */
 public class FileUtils {
+    
 
     public static final String FILEPROVIDER = BuildConfig.APPLICATION_ID + ".fileprovider";
     /**
